@@ -1,4 +1,4 @@
-public static boolean esPrimo(int n)
+bbbbbbbbbbbbbbbbbbpublic static boolean esPrimo(int n)
 {
 	
 	int i=2;
